@@ -4,6 +4,7 @@ lbyec72-ej1-p5-strings-KenBatak created by GitHub Classroom
 ![](02.JPG)
 ![](03.JPG)
 ![](04.JPG)
+Updated Strings: Student Information Sheet
 ![](101.JPG)
 ![](102.JPG)
 ![](103.JPG)
